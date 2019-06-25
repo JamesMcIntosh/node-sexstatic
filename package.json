@@ -22,9 +22,9 @@
     "middleware"
   ],
   "dependencies": {
-    "he": "~0.4.1",
-    "mime": "1.2.x",
-    "minimist": "~0.0.5"
+    "he": "^1.2.0",
+    "mime": "^1.4.1",
+    "minimist": "^1.2.0"
   },
   "devDependencies": {
     "tap": "0.3.x",
